@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BukSeth
+- Hello I'm Bukky!
 - 👀 I’m interested in Data Analytics & Project Management
 - 🌱 I’m currently learning Excel, SQL, Python
 - 💞️ I’m looking to collaborate on ...
